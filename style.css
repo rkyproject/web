@@ -68,6 +68,9 @@ body {
     position: relative;
 
 }
+.logo h6 {
+    color: #000;
+}
 
 .icon-bullet::after {
     content: "";
